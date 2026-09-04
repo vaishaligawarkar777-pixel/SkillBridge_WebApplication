@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4d0ef14-a7ed-4202-ad31-5af38bf70a74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SkillBridge_WebApplication.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3d image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Vecteezy-License-Information.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/career-person.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/career.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/job-back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/job-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/job-person.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jobs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/jobs_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/transparent img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vecteezy_soft-blurred-waves-abstract-blue-elegant-background_36052548.eps" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/job_details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/jobs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/Document.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/VAISHALI  CV Resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/VAISHALI_GAWARKAR.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/Vaishali Gawarkar R.....pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/Vaishali_Gawarkar_Resume(1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/Vaishali_Gawarkar_Resume.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/sameer_selokar_resume (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/vaishali 4th  Leaving Certificate (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/vaishali caste_certificate (1).pdf" afterDir="false" />
-    </list>
+    <list default="true" id="c4d0ef14-a7ed-4202-ad31-5af38bf70a74" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
