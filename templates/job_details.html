@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Job Details - SkillBridge</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+</head>
+<body>
+
+    <!-- Navbar -->
+
+    <nav>
+        <div class="nav-links">
+            <a href="/">Home</a>
+            <a href="/jobs">Jobs</a>
+            <a href="#">Skills</a>
+            <a href="#">Skills</a>
+            <a href="#">Resume</a>
+            <a href="#">Login</a>
+        </div>
+
+        <a href="/upload" class="upload-link">Upload Resume</a>
+    </nav>
+
+    <!-- job Detail -->
+
+    <div class="job-details-container">
+        <div class="job-details-card">
+            <h1>Software Developer Trainee</h1>
+            <h3>ABC Technologies</h3>
+            <p>
+                <strong>Required Skills:</strong>
+                python, SQL, HTML, CSS
+            </p>
+
+            <p>
+                <strong>Skill Match:</strong>
+                <span class="skill-match">85%</span>
+            </p>
+
+            <hr>
+
+            <h2>Job Description</h2>
+
+            <p>
+                We are looking for a motivated Software Developer Trainee
+                to join our development team. The Candidate will work on
+                software applications and assist in developing, testing
+                and maintaining web applications.
+            </p>
+
+            <h2>Eligibility</h2>
+
+            <ul>
+                <li>BCA/MCA/B.Sc. Computer Science or equivalent</li>
+                <li>Basic Knowledge of programming</li>
+                <li>Knowledge of python,SQL, HTML and CSS</li>
+                <li>Good problem-solving skills</li>
+            </ul>
+
+            <button class="apply-btn">Apply Now</button>
+        </div>
+    </div>
+
+</body>
+</html>

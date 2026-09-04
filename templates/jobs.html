@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jobs - SkillBridge</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">SkillBridge</div>
+
+        <div class="nav-links">
+            <a href="/" class="nav-link">Home</a>
+            <a href="/jobs" class="nav-link">Jobs</a>
+            <a href="#" class="nav-link">Skills</a>
+            <a href="#" class="nav-link">Resume</a>
+            <a href="#" class="nav-link">Login</a>
+        </div>
+    </nav>
+
+
+    <section class="jobs-page">
+
+        <h1>Find Your Next Opportunity</h1>
+
+        <p>Explore jobs and find the right opportunity for your career.</p>
+
+        <div class="jobs-content">
+
+    <div class="job-cards">
+
+        <div class="job-card">
+            <h2>Software Developer Trainee</h2>
+            <p><strong>Company:</strong> ABC Technologies</p>
+            <p><strong>Location:</strong> Nagpur</p>
+            <p><strong>Required Skills:</strong> Python, SQL, HTML, CSS</p>
+            <p><strong>Skill Match:</strong> 85%</p>
+            <button>View Details</button>
+        </div>
+
+        <div class="job-card">
+            <h2>Python Developer</h2>
+            <p><strong>Company:</strong> Tech Solutions</p>
+            <p><strong>Location:</strong> Nagpur</p>
+            <p><strong>Required Skills:</strong> Python, Flask, SQL</p>
+            <p><strong>Skill Match:</strong> 78%</p>
+            <button>View Details</button>
+        </div>
+
+        <div class="job-card">
+            <h2>Web Developer</h2>
+            <p><strong>Company:</strong> WebCraft Pvt. Ltd.</p>
+            <p><strong>Location:</strong> Nagpur</p>
+            <p><strong>Required Skills:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Skill Match:</strong> 72%</p>
+            <button>View Details</button>
+        </div>
+
+    </div>
+
+
+     <div class="job-transparent">
+        <img src="{{ url_for('static', filename='images/3d image.jpg') }}" alt="Career image">
+    </div>
+
+     <div class="job-image">
+        <img src="{{ url_for('static', filename='images/transparent img.jpg') }}" alt="image">
+    </div>
+    </div>
+
+    </section>
+
+</body>
+</html>
